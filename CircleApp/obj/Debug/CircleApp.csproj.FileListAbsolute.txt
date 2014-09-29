@@ -1,0 +1,5 @@
+c:\users\popy\documents\visual studio 2013\Projects\CircleApp\CircleApp\bin\Debug\CircleApp.exe.config
+c:\users\popy\documents\visual studio 2013\Projects\CircleApp\CircleApp\bin\Debug\CircleApp.exe
+c:\users\popy\documents\visual studio 2013\Projects\CircleApp\CircleApp\bin\Debug\CircleApp.pdb
+c:\users\popy\documents\visual studio 2013\Projects\CircleApp\CircleApp\obj\Debug\CircleApp.exe
+c:\users\popy\documents\visual studio 2013\Projects\CircleApp\CircleApp\obj\Debug\CircleApp.pdb
